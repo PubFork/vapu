@@ -1,0 +1,7 @@
+D:\New_Project\project\PacketFilterVista\Test\bin\Debug\Test.exe
+D:\New_Project\project\PacketFilterVista\Test\bin\Debug\Test.pdb
+D:\New_Project\project\PacketFilterVista\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\New_Project\project\PacketFilterVista\Test\obj\Debug\Test.exe
+D:\New_Project\project\PacketFilterVista\Test\obj\Debug\Test.pdb
+D:\New_Project\project\PacketFilterVista\Test\bin\Debug\VAPUFilter.dll
+D:\New_Project\project\PacketFilterVista\Test\bin\Debug\VAPUFilter.pdb

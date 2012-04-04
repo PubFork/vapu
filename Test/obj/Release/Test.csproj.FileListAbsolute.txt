@@ -1,0 +1,7 @@
+D:\New_Project\project\PacketFilterVista\Test\obj\Release\ResolveAssemblyReference.cache
+D:\New_Project\project\PacketFilterVista\Test\bin\Release\Test.exe
+D:\New_Project\project\PacketFilterVista\Test\bin\Release\Test.pdb
+D:\New_Project\project\PacketFilterVista\Test\bin\Release\Vista3.dll
+D:\New_Project\project\PacketFilterVista\Test\bin\Release\Vista3.pdb
+D:\New_Project\project\PacketFilterVista\Test\obj\Release\Test.exe
+D:\New_Project\project\PacketFilterVista\Test\obj\Release\Test.pdb
